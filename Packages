@@ -527,20 +527,20 @@ Author: 小果子
 Name: 【破解】tokcam相机Crack
 
 Package: com.weibo.mini
-Version: 1.0-9+debug
+Version: 1.0-10
 Architecture: iphoneos-arm
 Maintainer: 小果子
-Installed-Size: 440
+Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/新弹窗独立注入.deb
-Size: 126000
-MD5sum: 7ca8cd12d0efaaa7d569e51b18ffd484
-SHA1: 9b83b51b2caf1a1e04b3d8f301a995400c192bc8
-SHA256: c492937d4f170a416d3f5670796c3017b41cbc47b89a97c811edcd79ad0ab18a
+Filename: ./debs/com.weibo.mini_1.0-10_iphoneos-arm.deb
+Size: 199468
+MD5sum: f4f307f05599c9efc7fa12659e891011
+SHA1: 485c89aa6c9b242f431b9c2b0d067053cbc46101
+SHA256: 949ce886ffe5d3d5b3b10a8fee216d996a0877d311a3a0f1940d280f0515a76e
 Section: Tweaks
-Description: 独立注入。
+Description: 破解Vvebo会员
 Author: 小果子
-Name: 新弹窗独立注入
+Name: 【破解】Vvebo破解
 
 Package: com.weiqun.crack
 Version: 1.0-2+debug
