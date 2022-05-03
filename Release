@@ -1,0 +1,9 @@
+Origin: 饼干源
+Label: 小果子的个人源
+Suite: stable
+Version: 1.1
+Codename: yzxgz
+Architectures: iphoneos-arm
+Components: main
+Description: 小果子的个人源
+
