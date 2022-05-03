@@ -46,6 +46,22 @@ Description: 最美壁纸：一款超全的壁纸软禁，破解会员，解锁�
 Author: 小果子
 Name: 【破解】最美壁纸Crack
 
+Package: com.changting.crack
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1228
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.changting.crack_0.0.1-1+debug_iphoneos-arm.deb
+Size: 308124
+MD5sum: f43dd81034769d5fba5756bcb1444cf0
+SHA1: 7da9cd40eded74c2b8b0d438f206c1e84c3efdd2
+SHA256: 33ebbd3af85ed2d8bda8b88119dd5624bb887d44c49c4d487283e23c3eec2a8d
+Section: Tweaks
+Description: 酷我畅听破解会员
+Author: 小果子
+Name: 【破解】酷我畅听破解
+
 Package: com.chic.crack
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
@@ -318,6 +334,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: 小果子
 Name: OLDROLL
 
+Package: com.oldroll.crack
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.oldroll.crack_0.0.1-3+debug_iphoneos-arm.deb
+Size: 205616
+MD5sum: 3d3fc86c77f2ac3e799b3fcb2f5a5bb4
+SHA1: ffc00921f838df1b9b679dfbb40c28a18f07b617
+SHA256: 8790ddc410e3cda3237e883b0bed6b0edcda9cada0c0dcc82fbeabb05928c4f9
+Section: Tweaks
+Description: OLDROLL复古相机破解
+Author: 小果子
+Name: 【破解】OLDROLL复古相机破解
+
 Package: com.one.plus
 Version: 1.0-6+debug
 Architecture: iphoneos-arm
@@ -349,6 +381,22 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: 小果子
 Name: pipixia
+
+Package: com.pipi.pure
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 608
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.pipi.pure_0.0.1-3+debug_iphoneos-arm.deb
+Size: 207824
+MD5sum: e182f86268891221ebdf99ca3b0f888c
+SHA1: 731b34489c4d91d7e597b3c835751c03696fd4f9
+SHA256: 13aebab3fd77889f2b22d66911411a3cdd7cb47d89ad8484aac5b81c0bab8b1a
+Section: Tweaks
+Description: 皮皮虾优化去广告
+Author: 小果子
+Name: 【净化】皮皮虾去广告
 
 Package: com.poly.crack
 Version: 0.0.1-1+debug
@@ -574,6 +622,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Jin .
 Name: xiaohongshunoad
 
+Package: com.yourcompany.xiaohongshunoad
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 640
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.xiaohongshunoad_0.0.1-8+debug_iphoneos-arm.deb
+Size: 211994
+MD5sum: 3f4599d45f9267359110db4b480cdadf
+SHA1: 38adc5d87eff8297bf330d0137d0645e383371f2
+SHA256: 62035a6374fea24b91d126badf402db749d467d083abde807548b749c98f0156
+Section: Tweaks
+Description: 净化小红书，去除广告，解除下载视频图片水印
+Author: 小果子
+Name: 【净化】小红书去广告水印
+
 Package: com.youse.crack
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
@@ -605,6 +669,22 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: guozi
 Name: zhiyincrack
+
+Package: com.zhiyin.crack
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zhiyin.crack_0.0.1-4+debug_iphoneos-arm.deb
+Size: 206372
+MD5sum: b864e45da4c068ef78ff96ea35f09d41
+SHA1: 06b9ecc36123f6484d26985364bfda63556bcf19
+SHA256: 3cd4aab14e15d04ac511f9b01dbdf5fde96d26dd5d0812ef488024c35534329c
+Section: Tweaks
+Description: 知音漫客破解，畅享动漫，支持393版本
+Author: 小果子
+Name: 【破解】知音漫画Crack
 
 Package: mix
 Version: 1.0-23+debug
