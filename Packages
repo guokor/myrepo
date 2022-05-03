@@ -1,3 +1,243 @@
+Package: com.aiship.crack
+Version: 1.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.aiship.crack_1.0-5+debug_iphoneos-arm.deb
+Size: 305062
+MD5sum: f526f699c05d0dfcaa3ec8ac65d097ca
+SHA1: d5897f1c4880829017fb8f40850dd23d0de18ad4
+SHA256: 8e20f27e15055166aa9aa62af1d6d248ad80f778a15fa6903371322f074ef595
+Section: Tweaks
+Description: 老司机福利，爱视频破解，去除广告，破解付费视频观看
+Author: 小果子
+Name: 【老司机】爱视频Crack
+
+Package: com.beidanci.crack
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 556
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】墨墨背单词Crack.deb
+Size: 204672
+MD5sum: 54c5e6a6fdf6ae3767f65d14e2e2f742
+SHA1: b50d71f8a712090f914c944f71d0ecfa5c5d6289
+SHA256: 68a637682e58d0b5b56d05b80e8cfad9920b1cdd339fab416311ea2d6cdbdb37
+Section: Tweaks
+Description: 墨墨背单词解除破解，解除每日单词获取上限
+Author: 小果子
+Name: 【破解】墨墨背单词Crack
+
+Package: com.bizhi.crack
+Version: Version:1.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 444
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】最美壁纸Crack.deb
+Size: 126830
+MD5sum: cdc1ce3007e0bc1d463028aea6a55a21
+SHA1: f8913c9198e153ca31dbcd223f4b05c06cd0d01d
+SHA256: 5c4387fb84a9c73daa0e81a08389c012cab5ef0a953a21808a54017b6d8cf817
+Section: Tweaks
+Description: 最美壁纸：一款超全的壁纸软禁，破解会员，解锁会员图集，去除全局广告
+Author: 小果子
+Name: 【破解】最美壁纸Crack
+
+Package: com.chic.crack
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】chic相机Carck.deb
+Size: 205854
+MD5sum: 1f07b128014599f500a6b130eefe9275
+SHA1: 44fbc38f5143c85b4345dfd8e271fd9002c4b909
+SHA256: 4b19d87093a8ae35d555f024cee719fadc8e70df2d7c60b09c075bdc9a24cc89
+Section: Tweaks
+Description: chic相机破解会员订阅，解锁全部相机
+Author: 小果子
+Name: 【破解】chic相机Crack
+
+Package: com.chunshui.crack
+Version: 1.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1228
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.chunshui.crack_1.0-4+debug_iphoneos-arm.deb
+Size: 306448
+MD5sum: 3b835d0acb91c88c24009ffbe8fca9aa
+SHA1: 33a465c1e55a982b351b6fc42318efca29b384b5
+SHA256: a448ec19efbe9451be180073bb58e68771d11bd32d4a9d2ae902f9a3eff13188
+Section: Tweaks
+Description: 春水堂去除广告，解除视频限制。
+Author: 小果子
+Name: 【老司机】春水堂破解
+
+Package: com.darkroom.crack
+Version: 1.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.darkroom.crack_1.0-4+debug_iphoneos-arm.deb
+Size: 304890
+MD5sum: 228cf464978131d654a4bc3a69f550e8
+SHA1: 5e45b5ee13abae26601b781b38dfad52b1e1917c
+SHA256: 0df39b61154b48fdc17155dcaa5fcfb5dd25838f51fa213474790465de9f527b
+Section: Tweaks
+Description: Darkroom破解
+Author: 小果子
+Name: 【破解】Darkroom-Crack
+
+Package: com.dashixiong.noads
+Version: 1.0-7+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】悟空启蒙Crack.deb
+Size: 12966
+MD5sum: de66c7c88e2abc74f8a7d02b965600f8
+SHA1: d4b0b26d5982ecd09ad08f0f3e018562aecf8f53
+SHA256: ea56fc6e1f61312b19daecd8e85e4c710258f91e0d143d8fbe35f244e6713583
+Section: Tweaks
+Description: 大师兄影院破解会员，去除所有广告，商店搜索：大师兄记烟下载
+Author: 小果子
+Name: 【净化】大师兄影院破解
+
+Package: com.ddpeiyin.crack
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 572
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】多多配音Crack.deb
+Size: 205744
+MD5sum: 75698de93e756f1a1567fc8dee1c6c3f
+SHA1: 327bc7ac5b33c78d6dcfc7beb3a96ce9937e1f3f
+SHA256: 1abead265bd6083d9f689a62659c672abbcf8841a21fbb5fc4745e4ba9b7b9e5
+Section: Tweaks
+Description: 多多配音破解超级会员，解锁超级会员权限
+Author: 小果子
+Name: 【破解】多多配音Crack
+
+Package: com.ddvideo.noad
+Version: 1.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】迪迪影院Crack.deb
+Size: 12874
+MD5sum: 9c86509e14b3f58020428126fcab47cc
+SHA1: 1d817d6d1fb89e89c3b57c364764df72ed451435
+SHA256: 556180e665c598485ec40c062cba4be7dc189a30098c9532ad7c4eef3dbdb047
+Section: Tweaks
+Description: 迪迪影院破解会员，去除广告，还你干净观影
+Author: 小果子
+Name: 【净化】迪迪影院破解
+
+Package: com.djd.crack
+Version: 1.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 508
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】DJ多多Crack.deb
+Size: 299928
+MD5sum: b5454b741ef5b34a88868456b9717238
+SHA1: 294f1732206a723022bf1e803e21399074ac5e2f
+SHA256: 022acfd757a6bcb1f35c85b791ab4cff0064fda3cf1d464c08d8b73dd8458623
+Section: Tweaks
+Description: DJ多多去除广告，破解会员权限，须登录账号
+Author: 小果子
+Name: 【破解】DJ多多Crack
+
+Package: com.fimocam.crack
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】FIMO相机Crack.deb
+Size: 206094
+MD5sum: 4be887ec27be835ea9b5f7dfb079f5c7
+SHA1: ff5788e6ba346bc1ba2aa1c2eed74dc89156d71c
+SHA256: d25ae11ded605b13999f3a5159dfe948b817a9bf9224d1c1e2a7f593555e94c8
+Section: Tweaks
+Description: fimo相机破解，解锁会员权限
+Author: 小果子
+Name: 【破解】fimo相机Crack
+
+Package: com.guozi.mtpojie
+Version: 1.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.guozi.mtpojie_1.0-4+debug_iphoneos-arm.deb
+Size: 313292
+MD5sum: 7c40924a813b7099119b78c9535b16f5
+SHA1: d4f9e68032a380461c0bc230d7dd147db86e61bf
+SHA256: 6717fd19a229252c49254412b0613c4035a419bea1937d42778ea731e503eb82
+Section: Tweaks
+Description: 美图秀秀破解会员，解除会员权限
+Author: 小果子
+Name: 【破解】美图秀秀Crack
+
+Package: com.hongdouvideo.noad
+Version: 1.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】红豆影院Crack.deb
+Size: 13512
+MD5sum: a669defef3c84dc576bca4da0cebd8f4
+SHA1: 104618e1f4b54d2e3feab2e082b63d8701a58040
+SHA256: de9334d4569d3685ce2748023a4bf2a5dd8abe69dc0385d162c2fe0f3eb76b54
+Section: Tweaks
+Description: 红豆影院破解会员，去除广告，还你干净观影
+Author: 小果子
+Name: 【净化】红豆影院破解
+
+Package: com.konck.crack
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】ProKnockOut解锁订阅.deb
+Size: 206130
+MD5sum: 54e14e18c6f84161a14b5649d6c68ebf
+SHA1: 736ccf346c0cd34e5a26ea2807e890c2257312a3
+SHA256: 51b508cf7f6769b0d85c03cbd9cbe349609afaf2a9a352e4d2dc3e290017155e
+Section: Tweaks
+Description: PROknockout解锁订阅权限
+Author: 小果子
+Name: 【破解】PROknockout
+
+Package: com.kuaimao.crack
+Version: 1.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: 不知名网友
+Installed-Size: 1212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.kuaimao.crack_1.0-4+debug_iphoneos-arm.deb
+Size: 305390
+MD5sum: a5d4f15626a65983e3d6ee0181b977dc
+SHA1: fcd5b09dda8bb9c5084fec486076023fa534bd6c
+SHA256: 20117289389c9493be22a4aac3c70b66aae99803c491655c4f9cef4ad1f4b075
+Section: Tweaks
+Description: 快喵视频破解，须登录账号
+Author: 不知名网友
+Name: 【老司机】快喵视频破解
+
 Package: com.madou.crack
 Version: 1.0-10+debug
 Architecture: iphoneos-arm
@@ -13,4 +253,436 @@ Section: Tweaks
 Description: 老司机福利，麻豆日记破解会员，付费视频长视频无限观看，需登录账号
 Author: 小果子
 Name: 【老司机】麻豆日记Crack
+
+Package: com.manhuadao.crack
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】漫画岛Crack畅享动漫.deb
+Size: 206088
+MD5sum: d19e8d5cb58d5e34eb0896865b327fed
+SHA1: eb59e0bca6e9d8499162cc9719178337ea8023ff
+SHA256: 23ce2c6770f0f5156d11fd26947e370da0919cbddfc411249626c7f116ca1341
+Section: Tweaks
+Description: 漫画岛破解会员，解除付费漫画，会员漫画观看权限，详情内浏览
+Author: 小果子
+Name: 【破解】漫画岛Crack
+
+Package: com.meiyan.crack
+Version: 1.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】美颜相机修复Crack.deb
+Size: 206122
+MD5sum: 3382b7ae693b1d8b992a63d2619866ae
+SHA1: bbdf545146d6639d267d9e7e9d6dbe6627491c22
+SHA256: 71e9e2e8bf5dec4e6693e24d45ccdccea9fb0dea76453165787836f8161c8992
+Section: Tweaks
+Description: 美颜相机去除全部广告，破解会员
+Author: 小果子
+Name: 美颜相机Crack
+
+Package: com.nomo.crack
+Version: 1.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1228
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nomo.crack_1.0-5+debug_iphoneos-arm.deb
+Size: 307336
+MD5sum: ea1b558dc66f508235f05982d8b49779
+SHA1: c92ce934ba59a806a40d4da879039c872e10d0e7
+SHA256: da67ba43d4e8bb5715fb3f9ead85d91d616746e6736ae01857efe33924c85b1c
+Section: Tweaks
+Description: nomo相机破击额，胶片相机神器，你的移动拍立得
+Author: 小果子
+Name: 【破解】NOMO相机Crack
+
+Package: com.oldroll.crack
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.oldroll.crack_0.0.1-1+debug_iphoneos-arm.deb
+Size: 205600
+MD5sum: 4f71d95d6100b6e3f57dfc00bd5db3e0
+SHA1: 5f3ee8531f587d18f488d95f878c778a7a294c8c
+SHA256: 864acec581741713d7ee742d0b776ecb0104944c18be0b6f97bd653ec1cf7aa5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 小果子
+Name: OLDROLL
+
+Package: com.one.plus
+Version: 1.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: 大魔王
+Installed-Size: 1192
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.one.plus_1.0-6+debug_iphoneos-arm.deb
+Size: 303902
+MD5sum: cca26b3b1d180173574467b2f9d21162
+SHA1: 926a67ef6a0933d1c632475c1bc49f5c81d1acaf
+SHA256: dd696a4eebbbec2db2efd5e4a8ee12996ce03995c87a927aa0ea2e5c093cd667
+Section: Tweaks
+Description: 小而精悍的老司机软件，去除所有视频广告，还你干净观影体验
+Author: 大魔王
+Name: 【老司机】一个one破解
+
+Package: com.pipi.pure
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 608
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【净化】皮皮虾去广告.deb
+Size: 207800
+MD5sum: ce71cf707a92e76980572292bd34c2a8
+SHA1: c7431db9270b66ee44dca6e1445b1bfefe40626e
+SHA256: 78f413ab0f547e841247d0a306cbd9c99e5d31f45fd9c7f248fca30d200869a0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 小果子
+Name: pipixia
+
+Package: com.poly.crack
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 572
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】Moly相机Crack.deb
+Size: 205608
+MD5sum: d051775532ce2b27d18d0f085c1ba807
+SHA1: 5e64fbb54a0910ddb9b879d46614185c8cdfd8e8
+SHA256: 65d1d39281d7658a744e30c03b49c35d488e202722bf8f67b8ef420a574c277c
+Section: Tweaks
+Description: molyCAM复古相机破解会员，解锁全部订阅资源
+Author: 小果子
+Name: 【破解】molyCAM相机破解
+
+Package: com.pretty.crack
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】prettyup.deb
+Size: 126564
+MD5sum: 9b4d0b03cc840fcd6d566eab79ff1c72
+SHA1: edafe8cbbbf4bc95c1f214fa49d0972f448415fe
+SHA256: 95ff767389ea74fd1811a55be3377f34518847b42e1139482b3191350605b193
+Section: Tweaks
+Description: 商店下载，破解会员权限
+Author: 小果子
+Name: 【破解】pretty up破解
+
+Package: com.qiaoying.crack
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 608
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】巧影剪辑Crack.deb
+Size: 206534
+MD5sum: 73d91acaf17139f98390b4503a3fe062
+SHA1: f66b740a762b854e204d8f79405afaf276762505
+SHA256: 0a623646ab8ae42c7a53e08aabafbba7909e6ffabd1f88781dd45dd9cdcee271
+Section: Tweaks
+Description: 巧影剪辑破解会员，解锁订阅
+Author: 小果子
+Name: 【破解】巧影剪辑Crack
+
+Package: com.qingyan.crack
+Version: 1.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1100
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.qingyan.crack_1.0-6+debug_iphoneos-arm.deb
+Size: 232492
+MD5sum: a59eed3cc914dd882620d2a10c7e5c18
+SHA1: 8ac77b96f6f359273bb3cf94ce5ab107074d7039
+SHA256: fc7260700d31b7e20cbeba6e6bdfaca02dab7f5df1787fb75e3a6a03f57003f5
+Section: Tweaks
+Description: 轻颜相机破解，小姐姐必备，女朋友必备，破解会员，解除会员滤镜
+Author: 小果子
+Name: 【破解】轻颜相机Crack
+
+Package: com.quqiyingshi.crack
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.quqiyingshi.crack_0.0.1-8+debug_iphoneos-arm.deb
+Size: 14400
+MD5sum: 54e15c864be945749b08ba579ecad4a2
+SHA1: d6f98ef94e220bd5fe63c6cf1064106d7e73bb2e
+SHA256: 61d7d57cbbcd9320b19a286d5f740d0f30a1132d7e33fd194d98d8115de4772c
+Section: Tweaks
+Description: 曲奇视频去广告，破解会员观影限制，超多电影电视资源免费看，商店搜索“轻省钱”
+Author: 小果子
+Name: 【破解】曲奇影视（轻省钱）Crack
+
+Package: com.samanhua.crack
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 608
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】飒漫画Crack畅享动漫.deb
+Size: 206482
+MD5sum: 7d66b928730298dd9a03c25092a99392
+SHA1: ff93e4e7f6e938d35497d989c26d12f1f2250ff5
+SHA256: 85e60daec4164357c122cae8abd26ad847a5d0ab24d550f769fe0b0d7e7ac3ff
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 小果子
+Name: 【破解】飒漫画Crack
+
+Package: com.thunder.crack
+Version: 1.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 608
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】迅雷TF破解会员限速.deb
+Size: 206398
+MD5sum: 80b82c630934308cbe7783d6a1529ea0
+SHA1: d986f00a5ea6106addf3d539b65b7a563024b18b
+SHA256: c321d463de226ce2ca2f586bb98679127d997ca1eabbc407a0656b4ed7581260
+Section: Tweaks
+Description: 解除会员下载限速，去除广告
+Author: 小果子
+Name: 【破解】迅雷TF版Crack
+
+Package: com.tokcam.crack
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 556
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】tokcam相机Crack.deb
+Size: 204848
+MD5sum: 2d36702eb2e7e41cc97349267f4022eb
+SHA1: 345d2bdb2ada7ea0786610f0b01b6e0fa6430171
+SHA256: 0a70bb12e80cd43543fdeb076e7f92b5efda3e051d224e3627d47b070ae50fa3
+Section: Tweaks
+Description: tokcam相机破解会员解锁订阅
+Author: 小果子
+Name: 【破解】tokcam相机Crack
+
+Package: com.weibo.mini
+Version: 1.0-9+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/新弹窗独立注入.deb
+Size: 126000
+MD5sum: 7ca8cd12d0efaaa7d569e51b18ffd484
+SHA1: 9b83b51b2caf1a1e04b3d8f301a995400c192bc8
+SHA256: c492937d4f170a416d3f5670796c3017b41cbc47b89a97c811edcd79ad0ab18a
+Section: Tweaks
+Description: 独立注入。
+Author: 小果子
+Name: 新弹窗独立注入
+
+Package: com.weiqun.crack
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1228
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.weiqun.crack_1.0-2+debug_iphoneos-arm.deb
+Size: 307138
+MD5sum: 880780fa900abe3bd54f0159ab25bd17
+SHA1: 529653c0513c8694ad72533f206d54e0a8d6b8f6
+SHA256: 23edf06fdf641402b86a58d293e2d398ae2e948818547c849fb4fe464fdff069
+Section: Tweaks
+Description: 微群社区破解会员无限观看，去除广告，须登录账号
+Author: 小果子
+Name: 【老司机】微群社区破解
+
+Package: com.wink.crack
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 556
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】美图Wink破解订阅会员.deb
+Size: 204564
+MD5sum: 269709292d5e6ebe1eb585f04c0fe138
+SHA1: b771b2ee1ba81f7486f5e174e92cbe79c610ddbd
+SHA256: e0109619dc62b7ca02ccecaaff87c7d324c016b5e4934e2c244bc0b3408d3bb4
+Section: Tweaks
+Description: 美图出品新晋修图神器破解
+Author: 小果子
+Name: 【破解】美图WinkCrack
+
+Package: com.woniusleep.crack
+Version: 1.0-8+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 444
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.woniusleep.crack_1.0-8+debug_iphoneos-arm.deb
+Size: 127854
+MD5sum: e2ed4313dd9dab17410dbd4a19e30d94
+SHA1: d0eaf7bd2e7e66859f53bbee75c0d025ff35af2a
+SHA256: be136c324d8a870ee5fdf075d4b1c9566efdc7a7396fe081242c91cc605b38fb
+Section: Tweaks
+Description: 蜗牛睡眠破解会员，解锁会员分析报告及助眠音
+Author: 小果子
+Name: 蜗牛睡眠破解
+
+Package: com.yourcompany.weifengnoad
+Version: 6.8.5-7+debug
+Architecture: iphoneos-arm
+Maintainer: 猪猪侠
+Installed-Size: 384
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourcompany.weifengnoad_6.8.5-7+debug_iphoneos-arm.deb
+Size: 79180
+MD5sum: 8095a58ed8f063bed50442227cc8e5f0
+SHA1: 7cb33c3a1f4766825dffeb39634101342f822c73
+SHA256: 1eb16f92f07d0bd9baaad758df7f8a7fa73c2eee569144c52a9bf43b48019f08
+Section: Tweaks
+Description: 去除威锋社区全局广告，失效联系我
+Author: 猪猪侠
+Name: 威锋广告净化
+
+Package: com.yourcompany.xiaohongshunoad
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm
+Maintainer: Jin .
+Installed-Size: 640
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/小红书noad和水印.deb
+Size: 211878
+MD5sum: 5b03ac1ab995f729d8391c7d6f2fab44
+SHA1: 97a335bb5d187fa23dcd84ddbff40f1c56ad48b1
+SHA256: 7f7e739be33d6e4dd4e8cd07a5b2841ebbac49a215f068dab9649bc7019dbf4d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Jin .
+Name: xiaohongshunoad
+
+Package: com.youse.crack
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.youse.crack_0.0.1-5+debug_iphoneos-arm.deb
+Size: 308736
+MD5sum: 1b8ff6d25ac3823527161ff6e6fb4ffe
+SHA1: 07badd13d14173441e46389c6e81e6cabd6f46d0
+SHA256: 641a2c5e018c41071f118171aa3ae4f66e9e44c6553d9a299049cb2034df3a85
+Section: Tweaks
+Description: 【老司机】友色视频破解会员，去除广告，解除付费视频观看限制
+Author: 小果子
+Name: 【老司机】友色视频破解
+
+Package: com.zhiyin.crack
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: guozi
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】知音漫客Crack畅享动漫.deb
+Size: 206294
+MD5sum: 736038fd2289848f443cdb65e9459f4e
+SHA1: c5e8c64a3225a82a45b390d149179b3337dbcfd6
+SHA256: ad308013c445517336c5d9f50d08fa8d5e76bcc96ad06ae503bf89585b93c182
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: guozi
+Name: zhiyincrack
+
+Package: mix
+Version: 1.0-23+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/【破解】MIX相机Crack.deb
+Size: 206330
+MD5sum: bf3fd4db42790d3d147098d0e19c8c5b
+SHA1: 38b26f2ab2162ed8c6566765e6ea9d7f4ad516f9
+SHA256: cf7d924782f9501ab8c135218fbea7b1c703cef02a5f519cf6c8a247111a6194
+Section: Tweaks
+Description: mix相机破解，App Store下载
+Author: 小果子
+Name: 【破解】MIX相机Crack
+
+Package: nehyci.vscocrack
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/nehyci.vscocrack_1.0-1_iphoneos-arm.deb
+Size: 199586
+MD5sum: 2f3cdd013d3152434d522cda9b5bb3a4
+SHA1: 0519136320b8460a7d506d72a4dc9a62c9b7cd4a
+SHA256: b1f0fb6083a3da391c235aa24d92c4cb8b5a1d1390287dd366f09286e45f839f
+Section: Tweaks
+Description: VSCO相机解除会员权限，破解订阅
+Author: 小果子
+Name: 【破解】VSCO相机Crack
+
+Package: nehyci.vscocrack
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/nehyci.vscocrack_1.0-2+debug_iphoneos-arm.deb
+Size: 305084
+MD5sum: 223b82d1fa5db3a488af4edb3708bedc
+SHA1: e61eb5f75ae45aacd4f1763e56d23a8ea8c29512
+SHA256: f58a0acd2a16a30f8049c0693a42387cf6a2bead4171be8c6a24cdc056b57e08
+Section: Tweaks
+Description: VSCO相机解除会员权限，破解订阅
+Author: 小果子
+Name: 【破解】VSCO相机Crack
+
+Package: yaojingcrack
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/yaojingcrack_1.0-2+debug_iphoneos-arm.deb
+Size: 126216
+MD5sum: 3ccc37e6766f5b1c9c5e29c313f6df4a
+SHA1: e32a41ace00c42273d82931dad4c3e81d141bd88
+SHA256: 17beccadf3b869912b3b47774aeb3301c7ced1ab3c767517cf8be4d88ac471e0
+Section: Tweaks
+Description: 小妖精美化破解会员，去除广告
+Author: 小果子
+Name: 【破解】小妖精美化Crack
+
+Package: yiyancrack
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/yiyancrack_1.0-2+debug_iphoneos-arm.deb
+Size: 126230
+MD5sum: 76c685fad501fb49aa0b15c2a8499aa2
+SHA1: 83eea9115251495523503645c333438dd69782d2
+SHA256: 0e4cdd2ed736b4aa19a494b29bdf9c3c5ec9bfc958a5101ffc4e0916fab6da55
+Section: Tweaks
+Description: 一言破解： 为了遇见你，我藏进鸟的眼睛，经常盯着路过的风
+Author: 小果子
+Name: 【破解】一言Crack
 
