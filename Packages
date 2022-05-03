@@ -1,0 +1,16 @@
+Package: com.madou.crack
+Version: 1.0-10+debug
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 1252
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.madou.crack_1.0-10+debug_iphoneos-arm.deb
+Size: 313528
+MD5sum: 3ad697d6229ae3dac9d20f1d2879de8d
+SHA1: 29ab1d9487e1759658488fa6a4d7201ef68aa472
+SHA256: 89b6e2ed54345df5aaacb6e990b3c043ae959775f42b6b26611fba425d476c88
+Section: Tweaks
+Description: 老司机福利，麻豆日记破解会员，付费视频长视频无限观看，需登录账号
+Author: 小果子
+Name: 【老司机】麻豆日记Crack
+
